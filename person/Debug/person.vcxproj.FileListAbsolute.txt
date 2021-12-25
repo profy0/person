@@ -1,0 +1,2 @@
+C:\Users\nikit\source\repos\person\Debug\person.exe
+C:\Users\nikit\source\repos\person\Debug\person.pdb
